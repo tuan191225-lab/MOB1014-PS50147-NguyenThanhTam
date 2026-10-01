@@ -26,7 +26,6 @@ public class xepLoaiHocLuc {
             System.out.println("Diem khong hop le");
             return;
         }
-
         double dtb = (Toan * 2 + Ly + Hoa) / 4;
         System.out.printf("Diem Trung Binh: %.2f\n ",dtb);
         if (dtb >= 8.0) {
