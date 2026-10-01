@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Lab3;
+package com.poly.lab3;
 import java.util.Scanner;
 /**
  *
@@ -34,6 +34,7 @@ public class TrungBinhChia3 {
         }
         System.out.println();
         // Kiểm tra có số nào chia hết cho 3 không
+        
         if (Dem == 0) {
             System.out.println("Khong co so nao chia het cho 3");
         } else {
