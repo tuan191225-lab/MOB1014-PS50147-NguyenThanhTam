@@ -22,7 +22,6 @@ public class HinhChuNhat {
         
         cv = 2 * (cd + cr);
         dt = cd * cr;
-        
         System.out.printf("Chieu dai: %.2f\nChieu rong: %.2f\nChu vi: %.2f\nDien tich: %.2f\n", cd, cr, cv, dt); 
     }
 }
