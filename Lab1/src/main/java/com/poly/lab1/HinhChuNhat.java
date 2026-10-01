@@ -4,6 +4,8 @@
  */
 package com.poly.lab1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author NGUYEN THANH TAM
