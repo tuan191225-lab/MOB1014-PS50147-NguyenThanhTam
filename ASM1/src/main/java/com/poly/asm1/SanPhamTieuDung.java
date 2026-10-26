@@ -34,8 +34,5 @@ public class SanPhamTieuDung extends SanPham{
     @Override
     public void nhap() {
         super.nhap();
-    }
-    
-
-    
+    } 
 }
