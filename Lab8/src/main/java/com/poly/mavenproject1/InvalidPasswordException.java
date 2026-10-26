@@ -13,3 +13,4 @@ public class InvalidPasswordException extends Exception{
         super(message);
     }    
 }
+
