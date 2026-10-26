@@ -36,3 +36,4 @@ public class NhapTuoi {
         System.out.println("Ket thuc qua trinh nhap du lieu. Tuoi hop le: " + age);
     }
 }
+
