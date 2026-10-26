@@ -40,4 +40,3 @@ public class SanPhamDienTu extends SanPham{
         super.nhap();
     }
 }
-
